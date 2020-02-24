@@ -2,7 +2,7 @@ CLASSES = {
   0: 'Alma Mater Statue',
   1: 'Hamilton Statue',
   2: 'Mudd Statue',
-  3: 'Thinker',
+  3: 'Thinker Statue',
 };
 
 const MODEL_PATH =
